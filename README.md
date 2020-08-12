@@ -1,6 +1,6 @@
 # alliance_bernstein_file_extrator
 
-In this project, you will make use of NLP tools to extract relevant information from 424B filings pulled from the Electronic Data Gathering, Analysis, and Retrieval (EDGAR) system. These are filings required by the SEC when a company is issuing certain types of securities. The purpose of these forms is to protect investors by requiring detailed information about the securities to be provided prior to selling the securities.
+NLP tools are used to extract relevant information from 424B filings pulled from the Electronic Data Gathering, Analysis, and Retrieval (EDGAR) system. These are filings required by the SEC when a company is issuing certain types of securities. The purpose of these forms is to protect investors by requiring detailed information about the securities to be provided prior to selling the securities.
 
 The main challenge of working with these filings is the lack of a common document format. The starter files that you have to work with, contained in the data folder, show some of this variety. Your goal is to build a robust extractor which can work not just on the selected documents, but one which also has success on documents formatted differently than the provided subset.
 
